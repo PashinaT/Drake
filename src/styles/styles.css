@@ -1,0 +1,14 @@
+.centerComponent{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.containerColor{
+    background: gainsboro;
+}
+
+P { text-align: center }
+
+.width130{
+    width: 130px !important;
+}
